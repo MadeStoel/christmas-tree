@@ -1,0 +1,22 @@
+:root {
+    background: beige;
+    width: 100vw;
+    font-family: sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+
+}
+
+h1 {
+    color: darkgreen;
+}
+
+h2 {
+    color: red;
+    font-size: 40px;
+}
